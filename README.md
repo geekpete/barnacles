@@ -1,4 +1,5 @@
-= Barnacles!
+Barnacles!
+==========
 
 Barnacles are scripts and tools to help you with AWS Amazon Cloud.
 
